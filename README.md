@@ -1,6 +1,6 @@
 # E-Commerce Sales Analytics Dashboard
 
-![Dashboard Screenshot](dashboard_screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## Project Overview
 The E-Commerce Sales Analytics Dashboard is a complete data analytics project developed using Python, SQL, and Power BI. This project analyzes e-commerce sales data to generate meaningful business insights related to revenue, customers, products, and payment trends through interactive dashboards and visualizations.
