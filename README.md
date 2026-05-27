@@ -30,6 +30,7 @@ Ecommerce-Sales-Analytics-Dashboard/
 ├── data/
 │   ├── raw/
 │   └── cleaned/
+│       ├── cleaned_sample_data.csv
 │       └── cleaned_ecommerce_data.csv
 │
 ├── sql/
@@ -38,7 +39,6 @@ Ecommerce-Sales-Analytics-Dashboard/
 ├── powerbi/
 │   └── ecommerce_sales_dashboard.pbix
 │
-├── dashboard_screenshots/
-│   └── dashboard.png
+├── dashboard.png
 │
 └── README.md
