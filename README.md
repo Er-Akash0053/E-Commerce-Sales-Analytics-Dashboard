@@ -30,11 +30,11 @@ Ecommerce-Sales-Analytics-Dashboard/
 ├── data/
 │   ├── raw/
 │   └── cleaned/
-│       ├── cleaned_sample_data.csv
-│       └── cleaned_ecommerce_data.csv
+│       └── cleaned_sample_data.csv
 │
 ├── sql/
 │   └── analysis_queries.sql
+│       └── Sql Query File.txt
 │
 ├── powerbi/
 │   └── ecommerce_sales_dashboard.pbix
